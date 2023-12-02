@@ -38,13 +38,16 @@ Andy Merhaut (GitHub: [@tagr](https://github.com/tagr))
   
 ### Sample Headlines
 ![image](https://github.com/tagr/greatnet8hack-techport/assets/1758035/dd429eda-6fc5-4c4d-9371-d777ee392329)
-*Figure 1: Artificial Intelligence Thermal Control [Source](https://techport.nasa.gov/view/96576)*
+
+*Figure 1: Artificial Intelligence Thermal Control [Project](https://techport.nasa.gov/view/96576)*
 
 ![image](https://github.com/tagr/greatnet8hack-techport/assets/1758035/4667a557-91d7-4074-94ab-713c9e5819c3)
-*Figure 2: Sensory Integration and Decision Making Based on Insect Brain Model [Source](https://techport.nasa.gov/view/4327)*
+
+*Figure 2: Sensory Integration and Decision Making Based on Insect Brain Model [Project](https://techport.nasa.gov/view/4327)*
 
 ![image](https://github.com/tagr/greatnet8hack-techport/assets/1758035/e53b0ca3-200b-4766-9ec9-0759e43bf719)
-*Figure 3: Moon-to-Mars Planetary Autonomous Construction Technology (MMPACT) [Source](https://techport.nasa.gov/view/116319)*
+
+*Figure 3: Moon-to-Mars Planetary Autonomous Construction Technology (MMPACT) [Project](https://techport.nasa.gov/view/116319)*
 
 ### Acknowledgements
 * My family's patience
