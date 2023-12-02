@@ -36,7 +36,10 @@ Andy Merhaut (GitHub: [@tagr](https://github.com/tagr))
 * Clone this repository
 * Replace the values for `OPENAI_APIKEY` and `OPENAI_API_PROXY_URL` in `greatnet8hack\greatnet8hack.ApiService\Properties\launchSettings.json`
   
-
+### Sample Headlines
+![image](https://github.com/tagr/greatnet8hack-techport/assets/1758035/dd429eda-6fc5-4c4d-9371-d777ee392329)
+![image](https://github.com/tagr/greatnet8hack-techport/assets/1758035/4667a557-91d7-4074-94ab-713c9e5819c3)
+![image](https://github.com/tagr/greatnet8hack-techport/assets/1758035/e53b0ca3-200b-4766-9ec9-0759e43bf719)
 
 ### Acknowledgements
 * My family's patience
