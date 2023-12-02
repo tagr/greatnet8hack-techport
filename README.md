@@ -42,7 +42,5 @@ Andy Merhaut (GitHub: [@tagr](https://github.com/tagr))
 * My family's patience
 * The [NASA TechPort team](https://techport.nasa.gov/about) for supporting the tools used for this project
 * Microsoft for sponsoring the [Great .NET 8 Hack](https://github.com/microsoft/hack-together-dotnet) and providing OpenAI access to participants
-* NASA, ESA, CSA, STScI for image of the [Southern Ring Nebula (NIRCam Image)](https://webbtelescope.org/contents/media/images/2022/033/01G70BGTSYBHS69T7K3N3ASSEB?Collection=First%20Images) used in the app
+* NASA, ESA, CSA, STScI for image of the [Southern Ring Nebula (NIRCam Image)](https://webbtelescope.org/contents/media/images/2022/033/01G70BGTSYBHS69T7K3N3ASSEB?Collection=First%20Images) used as app background
 * Event Horizon Telescope collaboration et al. & Britannica for image of [black hole in M87](https://www.britannica.com/place/Virgo-A#/media/1/630116/239625) used in the app
-
-![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)
