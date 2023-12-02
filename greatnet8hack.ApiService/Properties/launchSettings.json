@@ -1,0 +1,19 @@
+{
+  "$schema": "http://json.schemastore.org/launchsettings.json",
+  "profiles": {
+    "http": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "launchBrowser": true,
+      "launchUrl": "",
+      "applicationUrl": "http://localhost:5519",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "OPENAI_APIKEY": "ENTER_YOUR_KEY_HERE",
+        "OPENAI_API_PROXY_URL": "https://aoai.hacktogether.net/v1/api",
+        "TECHPORT_API_SEARCH_URL": "https://techport.nasa.gov/api/projects/search?searchQuery=",
+        "TECHPORT_API_PROJECT_URL": "https://techport.nasa.gov/api/projects/"
+      }
+    }
+  }
+}

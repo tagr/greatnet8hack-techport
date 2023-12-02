@@ -1,0 +1,49 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34310.174
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "greatnet8hack.AppHost", "greatnet8hack.AppHost\greatnet8hack.AppHost.csproj", "{601B7DB2-32D6-47ED-BAAD-416C6A508E48}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "greatnet8hack.ServiceDefaults", "greatnet8hack.ServiceDefaults\greatnet8hack.ServiceDefaults.csproj", "{4C41388C-8CD4-42D3-9246-C76D5E20FDFA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "greatnet8hack.ApiService", "greatnet8hack.ApiService\greatnet8hack.ApiService.csproj", "{2B5A252F-4337-4DC4-9F06-80ECCEBD68AB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "greatnet8hack.Web", "greatnet8hack.Web\greatnet8hack.Web.csproj", "{A3033D24-5A5C-4FF1-885A-F7D37FFE78F4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{7106CC2C-8E32-485F-87DD-25E973528143}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+		.gitignore = .gitignore
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{601B7DB2-32D6-47ED-BAAD-416C6A508E48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{601B7DB2-32D6-47ED-BAAD-416C6A508E48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{601B7DB2-32D6-47ED-BAAD-416C6A508E48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{601B7DB2-32D6-47ED-BAAD-416C6A508E48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C41388C-8CD4-42D3-9246-C76D5E20FDFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C41388C-8CD4-42D3-9246-C76D5E20FDFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C41388C-8CD4-42D3-9246-C76D5E20FDFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C41388C-8CD4-42D3-9246-C76D5E20FDFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B5A252F-4337-4DC4-9F06-80ECCEBD68AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B5A252F-4337-4DC4-9F06-80ECCEBD68AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B5A252F-4337-4DC4-9F06-80ECCEBD68AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B5A252F-4337-4DC4-9F06-80ECCEBD68AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3033D24-5A5C-4FF1-885A-F7D37FFE78F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3033D24-5A5C-4FF1-885A-F7D37FFE78F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3033D24-5A5C-4FF1-885A-F7D37FFE78F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3033D24-5A5C-4FF1-885A-F7D37FFE78F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {170B3E79-8D03-48D1-9EB5-F00F6F493D2C}
+	EndGlobalSection
+EndGlobal

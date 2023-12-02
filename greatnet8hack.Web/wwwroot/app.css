@@ -1,0 +1,91 @@
+﻿@charset "UTF-8";
+
+*, *:before,
+*:after {
+    box-sizing: border-box;
+}
+
+
+html {
+    background: radial-gradient(circle, rgba(250,251,255,1) 0%, rgba(0,112,255,.95) 30%, rgba(0,112,255,0.9) 32%, rgba(0,112,255,0.7) 33%, rgba(0,0,0,1) 40%, rgba(0,0,0,0) 100%), 
+            url("nebula.png") no-repeat;
+    background-position: center;
+    background-size: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+@media only screen and (min-width : 640px) {
+    html {
+        height: 100%;
+    }
+}
+
+@media only screen and (max-width : 1279px) {
+    .disclaimer {
+        border-bottom-right-radius: 0;
+        border-bottom-left-radius: 0;
+    }
+}
+
+.disclaimer {
+    animation: galaxy 300s linear alternate;
+    background: url(galaxy.jpg);
+}
+
+.keyword {
+    text-transform: capitalize;
+}
+
+.results {
+    background: rgba(0,0,0,0.6);
+}
+
+.results.prismatic {
+    animation: prismatic 10s linear infinite;
+    background: url(prismatic.jpg), rgba(0,0,255,.6);
+    background-blend-mode: soft-light;
+    background-size: cover;
+}
+
+    .results.prismatic.tabloid {
+        background-blend-mode: hard-light;
+    }
+
+@keyframes prismatic {
+    0% {
+        background-position: left top;
+    }
+
+    50% {
+        background-position: left bottom;
+    }
+
+    100% {
+        background-position: left top;
+    }
+}
+
+@keyframes galaxy {
+    0% {
+        background-position: left top;
+    }
+
+    25% {
+        background-position: left 75%;
+    }
+
+    50% {
+        background-position: right 75%;
+    }
+
+    75% {
+        background-position: right top;
+    }
+
+    100% {
+        background-position: left top;
+    }
+}

@@ -1,0 +1,11 @@
+.editorconfig
+/build/
+*.suo
+*.user
+*.sdf
+.vs/
+bin/
+obj/
+Debug/
+FileContentIndex/
+Release/
