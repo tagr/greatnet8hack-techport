@@ -49,6 +49,10 @@ Andy Merhaut (GitHub: [@tagr](https://github.com/tagr))
 
 *Figure 3: Moon-to-Mars Planetary Autonomous Construction Technology (MMPACT) [Project](https://techport.nasa.gov/view/116319)*
 
+### Project video
+* [YouTube](https://youtu.be/nyCnAENUvR8)
+* [GitHub](https://github.com/microsoft/hack-together-dotnet/assets/1758035/9ae33bf2-026d-4b39-b586-e15aaa92d3ce)
+
 ### Acknowledgements
 * My family's patience
 * The [NASA TechPort team](https://techport.nasa.gov/about) for supporting the tools used for this project
